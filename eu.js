@@ -1,0 +1,2 @@
+   return replaceRepeaterInFieldDef(def, repeater);
+   
